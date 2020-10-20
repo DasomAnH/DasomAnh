@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m working collaborate on full-stack-project at Digital Crafts
-- 🥅 2020 Goals: Graduating Bootcamp
+- 🥅 2020 Goals: Graduating code Bootcamp
 - ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and play piano / violin.
 
 ## Github Stats 🤖
