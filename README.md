@@ -3,7 +3,7 @@
 ## I'm a Wife, Mom, and Developer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m working on full-stack-project at Digital Crafts
+- 👯 I’m working on full-stack-projects at Digital Crafts
 - 🥅 2020 Goals: Graduating code Bootcamp
 - ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and play piano / violin.
 
