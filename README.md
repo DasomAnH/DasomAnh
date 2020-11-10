@@ -24,6 +24,5 @@
 
 -----------------------------------------------------
 ## Contacts
-☎️ tel: 404-784-2527
 💌 email: dasomhuber@gmail.com
 🔗linkedin : ​https://www.linkedin.com/in/dasomhuber
