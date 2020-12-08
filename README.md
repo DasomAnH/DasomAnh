@@ -1,6 +1,6 @@
 ### Hi there, I'm Dasom👋
 
-## I'm a Wife, Mom, and Developer!!
+## I'm a Developer,Wife, and Mom!!
 
 - 🌱 I’m currently learning React
 - 👯 I’m working on React Application at Digital Crafts
