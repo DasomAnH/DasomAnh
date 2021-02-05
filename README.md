@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning React
 - 👯 I’m working on React Application at Digital Crafts
-- 🥅 2020 Goals: Graduating code Bootcamp
+- 🥅 2021 Goals: Move forward growing with development skill
 - ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and music.
 
 ## Github Stats 🤖
