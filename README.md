@@ -1,10 +1,10 @@
 ### Hi there, I'm Dasom👋
 
-## I'm a Developer,Wife, and Mom!!
+## I'm a Software Engineer!!
 
-- 🌱 I’m currently learning React
-- 👯 I’m working on React Application at Digital Crafts
-- 🥅 2021 Goals: Move forward growing with development skill
+- 🌱 I’m currently Deep learning Javascript and React.
+- 👯 I’m working on javascript Algorithms and React Application.
+- 🥅 2021 Goals: Move forward growing with development skill.
 - ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and music.
 
 ## Github Stats 🤖
