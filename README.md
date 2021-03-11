@@ -22,4 +22,4 @@
 ## Contacts
 💌 email: dasomhuber@gmail.com
 🔗linkedin : ​https://www.linkedin.com/in/dasomhuber
-💻 portfolio : dasom.space
+💻 portfolio : https://dasom.space
