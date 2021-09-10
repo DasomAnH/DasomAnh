@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer!!
 
-- 🌱 I’m currently Deep learning Javascript and React.
-- 👯 I’m working on javascript Algorithms and React Application.
+- 🌱 I’m currently Deep learning back-end(postgres, data, sequelize).
+- 👯 I’m working on Ticketing system.
 - 🥅 2021 Goals: Move forward growing with development skill.
 - ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and music.
 
