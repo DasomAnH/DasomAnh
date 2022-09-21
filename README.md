@@ -2,9 +2,8 @@
 
 ## I'm a Software Engineer!!
 
-- 🌱 I’m currently Deep learning back-end(postgres, data, sequelize).
-- 👯 I’m working on Ticketing system.
-- 🥅 2021 Goals: Move forward growing with development skill.
+- 🌱 I’m currently Deep learning front-end.
+- 👯 I’m working on Pesonal Websites.
 - ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and music.
 
 ## Languages and Tools:
@@ -20,6 +19,6 @@
 
 -----------------------------------------------------
 ## Contacts
-💌 email: dasomhuber@gmail.com
+💌 email: dasom.an.devrgmail.com
 🔗linkedin : ​https://www.linkedin.com/in/dasomhuber
 💻 portfolio : https://dasom.space
