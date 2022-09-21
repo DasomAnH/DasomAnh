@@ -2,8 +2,9 @@
 
 ## I'm a Software Engineer!!
 
-- 🌱 I’m currently Deep learning front-end.
+- 🌱 I’m currently front-end, Python, React, hosted payment system, windows & Mac.
 - 👯 I’m working on Pesonal Websites.
+- 💕 I'm slowly growing my skill. 
 - ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and music.
 
 ## Languages and Tools:
@@ -19,6 +20,6 @@
 
 -----------------------------------------------------
 ## Contacts
-💌 email: dasom.an.devrgmail.com
+💌 email: dasom.an.dev@gmail.com
 🔗linkedin : ​https://www.linkedin.com/in/dasomhuber
-💻 portfolio : https://dasom.space
+💻 portfolio : Working on...
