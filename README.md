@@ -2,8 +2,8 @@
 
 ## I'm a Software Engineer!!
 
-- 🌱 I’m currently front-end, Javascript, Python, React, hosted payment system, windows & Mac.
-- 👯 I’m working on Pesonal Websites.
+- 🌱 I’m currently front-end, Javascript, Python, React, windows & Mac.
+- 👯 I’m working on Atlanta Artistic swimming Web.
 - 💕 I'm slowly growing my skill. 
 - ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and music.
 
