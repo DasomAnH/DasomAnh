@@ -1,11 +1,12 @@
 ### Hi there, I'm Dasom👋
 
-## I'm a Software Engineer!!
+## I'm an Aquatics Sports Club- Artistic Swimming Atlanta Founder!!
 
 - 🌱 I’m currently front-end, Javascript, Python, React, windows & Mac.
-- 👯 I’m working on Atlanta Artistic swimming Web.
+- 👯 I’m working on Aquatics Sports Club Artistic Swimming Atlanta Web.
 - 💕 I'm slowly growing my skill. 
-- ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love art and music.
+- ⚡ Fun fact:I participated in 2004 olympic as an artistic swimmer. I love music and art.
+- I'm living in Atlanta Georgia. 
 
 ## Languages and Tools:
 
@@ -20,6 +21,9 @@
 
 -----------------------------------------------------
 ## Contacts
-💌 email: dasom.an.dev@gmail.com
-🔗linkedin : ​https://www.linkedin.com/in/dasomhuber
-💻 portfolio : Working on...
+💌 email: dasom.an.dev@gmail.com/ aquaticssportsclub@gmail.com/ dasom.huber@gmail.com
+
+🔗linkedin: ​none
+
+Last updated by 0ctober 18th 2024
+
